@@ -3,11 +3,6 @@ Olá! Eu sou Alanna Farias <3
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alanna-dev&show_icons=true&theme=dark" alt="alanna Farias's GitHub Stats" />
 </p>
-<div align="center">
-  <a href="https://ibb.co/YXvpH4W">
-    <img src="" alt="Avatar" height="150" width="150" />
-  </a>
-</div>
 <div align="center"> 
   <a href="https://www.instagram.com/alannaafarias/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
