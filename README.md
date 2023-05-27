@@ -14,9 +14,3 @@ Olá! Eu sou Alanna Farias <3
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
-
-
-
-- 
-
-- 
