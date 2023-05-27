@@ -1,7 +1,7 @@
 # readme-profile
 Olá! Eu sou Alanna Farias <3
 <p align="center">
-  <img src="" alt="alanna Farias's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alanna-dev&show_icons=true&theme=dark" alt="alanna Farias's GitHub Stats" />
 </p>
 <div align="center">
   <a href="https://ibb.co/YXvpH4W">
